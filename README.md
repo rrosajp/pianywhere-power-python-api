@@ -1,4 +1,4 @@
-[pianywhere_4g]: https://github.com/Altitude-Tech/python-pianywhere-serial-api/blob/master/pianywhere_4g.png "PiAnywhere 4G Board"
+[pianywhere_4g]: https://github.com/Altitude-Tech/pianywhere-power-python-api/blob/master/pianywhere_power.jpg "PiAnywhere 4G Board"
 
 # PyAnywhere Power Python API
 Python API to control the PiAnywhere Power board. The ultimate power managment solution for the raspberry pi.
